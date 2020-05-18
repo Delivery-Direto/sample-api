@@ -22,11 +22,11 @@
             "id": 26576,
             "name": "BURGERS",
             "items": [
-                {"id": 94298, "name": "The Classic", "price": 6.95},
+                {"id": 94298, "name": "The Classic", "price": 6.95, "image_url": "https://raw.githubusercontent.com/delivery-direto/sample-api/master/images/ilya-mashkov-_qxbJUr9RqI-unsplash.jpg"},
                 {"id": 94301, "name": "The Spicy Pimento", "description": "onion rings + homemade pimento cheese + chipotle honey", "price": 11.95},
                 {"id": 94345, "name": "The Saucey", "description": "portobello + grilled onions + swiss + new york burger sauce + lettuce + tomato", "price": 9.25},
-                {"id": 94365, "name": "The Chicken N Cheeseburger", "description": "spicy chicken + cheeseburger + smoked bacon + chipotle honey + pickles", "price": 12.95},
-                {"id": 94357, "name": "The Bacon 1000", "description": "applewood smoked bacon + cheddar + 1000 island sauce + lettuce + tomato", "price": 9.25},
+                {"id": 94365, "name": "The Chicken N Cheeseburger", "description": "spicy chicken + cheeseburger + smoked bacon + chipotle honey + pickles", "price": 12.95, "image_url": "https://raw.githubusercontent.com/delivery-direto/sample-api/master/images/haseeb-jamil-J9lD6FS6_cs-unsplash.jpg"},
+                {"id": 94357, "name": "The Bacon 1000", "description": "applewood smoked bacon + cheddar + 1000 island sauce + lettuce + tomato", "price": 9.25, "image_url": "https://raw.githubusercontent.com/delivery-direto/sample-api/master/images/jakub-kapusnak-4hgYULBzVEE-unsplash.jpg"},
                 {"id": 94399, "name": "The BB-A", "description": "applewood smoked bacon + blue cheese + avocado + lettuce + tomato", "price": 9.95}
             ]
         },
@@ -36,7 +36,7 @@
             "items": [
                 {"id": 12098, "name": "Turkey Burger", "description": "lettuce + tomato", "price": 10.25},
                 {"id": 12198, "name": "Salmon Burger", "description": "sriracha aioli + pickled onions + cilantro + lettuce", "price": 12.50},
-                {"id": 12187, "name": "Blackbean Burger - Vegan", "description": "avocado + carrots + lettuce + tomato + wholegrain bun", "price": 9.95}
+                {"id": 12187, "name": "Blackbean Burger - Vegan", "description": "avocado + carrots + lettuce + tomato + wholegrain bun", "price": 9.95, "image_url": "https://raw.githubusercontent.com/delivery-direto/sample-api/master/images/ruth-reyer-VA7WfV-OFsM-unsplash.jpg"}
             ]
         },
         {
@@ -52,7 +52,7 @@
             "id": 26580,
             "name": "SALADS",
             "items": [
-                {"id": 14146, "name": "Caesar", "description": "lettuce hearts + parmesan cheese + croutons", "price": 7.5},
+                {"id": 14146, "name": "Caesar", "description": "lettuce hearts + parmesan cheese + croutons", "price": 7.5, "image_url": "https://raw.githubusercontent.com/delivery-direto/sample-api/master/images/raphael-nogueira-63mHpYEyjCA-unsplash.jpg"},
                 {"id": 14347, "name": "Greek", "description": "barrel feta + roasted peppers + olives", "price": 7.95},
                 {"id": 14248, "name": "Grain Bowl", "description": "kale + baby greens + quinoa/farro + red peppers + avocado + dried cranberries + carrots", "price": 9.5},
                 {"id": 14972, "name": "Cobb", "description": "applewood smoked bacon + blue cheese + avocado", "price": 9.5}

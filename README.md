@@ -27,3 +27,6 @@ GET /opening-hours
 ```
 GET /menu
 ```
+
+### Photo credits
+Photos by [Ilya Mashkov](https://unsplash.com/@mashkov), [Jakub Kapusnak](https://unsplash.com/@foodiesfeed), [Raphael Nogueira](https://unsplash.com/@phaelnogueira), [Ruth Reyer](https://unsplash.com/@ruthreyer), [Haseeb Jamil](https://unsplash.com/@haseebjkhan) on [Unsplash](https://unsplash.com)
